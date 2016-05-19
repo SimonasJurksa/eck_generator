@@ -1,0 +1,10 @@
+name = Entity Construction Kit Devel Generator
+description = Gives you ability to generate content for custom entities and their bundles that were created using eck module.
+package = Development
+core = 7.x
+version = "7.x-1.0"
+
+tags[] = developer
+
+dependencies[] = eck
+dependencies[] = devel_generate
